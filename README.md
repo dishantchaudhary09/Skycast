@@ -1,15 +1,27 @@
 # 🌤️ Weather Web
 
-A modern and responsive weather application built using **HTML, CSS, and JavaScript**. It provides real-time weather information using a weather API.
+<p align="center">
+  <img src="Screenshot%202026-07-11%20121009.png" alt="Weather Web Preview" width="100%">
+</p>
+
+<p align="center">
+  A modern and responsive weather application built with <strong>HTML</strong>, <strong>CSS</strong>, and <strong>JavaScript</strong>, powered by a Weather API for real-time weather updates.
+</p>
+
+<p align="center">
+  <a href="https://your-netlify-link.netlify.app"><strong>🌐 Live Demo</strong></a>
+</p>
+
+---
 
 ## ✨ Features
 
 - 🌍 Search weather by city
 - 🌡️ Real-time temperature
+- ☁️ Weather conditions
 - 💨 Wind speed
 - 💧 Humidity
-- ☁️ Weather conditions
-- 📱 Responsive design
+- 📱 Fully responsive design
 
 ## 🛠️ Tech Stack
 
@@ -18,17 +30,9 @@ A modern and responsive weather application built using **HTML, CSS, and JavaScr
 - JavaScript (ES6)
 - Weather API
 
-## 🚀 Live Demo
-
-🔗 https://your-netlify-link.netlify.app
-
-## 📸 Preview
-
-![Weather Web](Screenshot%20202026-07-11121009.png)
-
 ## 📂 Project Structure
 
-```
+```text
 Weather-Web/
 ├── images/
 ├── index.html
@@ -41,4 +45,6 @@ Weather-Web/
 
 **Dishant Chaudhary**
 
-⭐ If you like this project, don't forget to star the repository!
+---
+
+⭐ If you found this project helpful, consider giving it a star!
