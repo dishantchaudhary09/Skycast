@@ -24,7 +24,7 @@ A modern and responsive weather application built using **HTML, CSS, and JavaScr
 
 ## 📸 Preview
 
-![Weather Web](Screenshot%202026-07-11%20121009.png)
+![Weather Web](Screenshot%20202026-07-11121009.png)
 
 ## 📂 Project Structure
 
